@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bridgebydamon.github.io/sitemap.xml
